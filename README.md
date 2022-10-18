@@ -17,7 +17,7 @@
 [<img align="left" alt="RileyLivingston | LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
 
 
-[linkedin]: www.linkedin.com/in/rileylivingston/
+[linkedin]: https://www.linkedin.com/in/rileylivingston/
 
 <!--
 **Riley-livingston/Riley-livingston  is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.**
