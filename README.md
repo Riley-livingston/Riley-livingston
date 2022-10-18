@@ -10,7 +10,7 @@
 - [Google Data Analytics](https://coursera.org/share/1bc669ea0359a81e313d773a412d5bb6)
 - [Tableau Desktop Specialist](https://www.credly.com/badges/cd0f31cb-d769-4520-9b8d-a0dfabcaa071?source=linked_in_profile)
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Connect With Me:</h2>
 
 
 
