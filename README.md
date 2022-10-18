@@ -15,9 +15,10 @@
 
 
 [<img align="left" alt="RileyLivingston | LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
-
+[<img align="left" alt="RileyLivingston | LinkedIn" width="22px" src="https://simpleicons.org/icons/twitter.svg" />][twitter]
 
 [linkedin]: https://www.linkedin.com/in/rileylivingston/
+[twitter]: https://twitter.com/RLivData
 
 <!--
 **Riley-livingston/Riley-livingston  is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.**
