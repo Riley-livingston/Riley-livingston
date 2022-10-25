@@ -19,7 +19,6 @@
 
 [linkedin]: https://www.linkedin.com/in/rileylivingston/
 [twitter]: https://twitter.com/RLivData
-<br />
 <br /> 
 <h2>  ❤️ About Me</h2>
 - 🌱 I’m currently learning: multivariate regression, SQL, Python
