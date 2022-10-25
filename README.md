@@ -19,16 +19,10 @@
 
 [linkedin]: https://www.linkedin.com/in/rileylivingston/
 [twitter]: https://twitter.com/RLivData
-
-<!--
-**Riley-livingston/Riley-livingston  is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.**
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Statistics, SQL, Python
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+<br />
+<br /> 
+<h2>  ❤️ About Me</h2>
+- 🌱 I’m currently learning: multivariate regression, SQL, Python
 - 📫 How to reach me: rdlivin@bgsu.edu
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Poker <3 Cooking <3 Football <3
--->
