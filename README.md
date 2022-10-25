@@ -3,7 +3,7 @@
 <h2> ♠️ Data Science Projects:</h2>
 
 - <b>MySQL and Tableau:</b>
-  - [Airbnb Listings Analysis for Cleaning Services - Active Directory](https://riley-livingston.github.io/AirBnb-Project/)
+  - [Airbnb Listings Analysis for Cleaning Services - Active Directory]https://github.com/Riley-livingston/AirBnb-Project#readme)
 
 <h2> 📄 Certifications</h2>
 
