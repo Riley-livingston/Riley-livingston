@@ -21,7 +21,7 @@
 [twitter]: https://twitter.com/RLivData
 <br /> 
 <h2>  ❤️ About Me</h2>
- - 🌱 I’m currently learning: multivariate regression analysis, SQL, Python
+ - 🌱 I’m currently learning: multivariate linear regression, SQL, Python
 <br />
  - 📫 How to reach me: rdlivin@bgsu.edu
 <br />
