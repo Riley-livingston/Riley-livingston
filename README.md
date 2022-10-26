@@ -2,7 +2,7 @@
 
 <h2> ♠️ Data Projects:</h2>
 
-- <b>MySQL and Tableau:</b>
+- <b>SQL and Tableau:</b>
   - [Airbnb Listings Analysis for Cleaning Services - Active Directory](https://github.com/Riley-livingston/AirBnb-Project)
 
 <h2> 📄 Certifications:</h2>
