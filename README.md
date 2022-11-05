@@ -1,6 +1,8 @@
 <h1>Hi, I'm Riley! </h1>
 
 <h2> ♠️ Data Projects:</h2>
+-<b> SQL and Python
+  -[Airbnb Listings Analysis for Cleaning Services v2 - Active Directory]
 
 - <b>SQL and Tableau:</b>
   - [Airbnb Listings Analysis for Cleaning Services - Active Directory](https://github.com/Riley-livingston/AirBnb-Project)
