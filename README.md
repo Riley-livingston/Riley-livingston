@@ -3,7 +3,7 @@
 <h2> ♠️ Data Projects:</h2>
 
 - <b> SQL and Python:<b/>
-  - [Airbnb Listings Analysis for Cleaning Services v2 - Active Directory](https://github.com/Riley-livingston/Airbnb-Listings-Analysis-for-Cleaning-Services-v2)
+  - [Airbnb Listings Analysis for Cleaning Services | Multivariate Linear Regression - Active Directory](https://github.com/Riley-livingston/Airbnb-Listings-Analysis-for-Cleaning-Services-v2)
 
 - <b>SQL and Tableau:</b>
   - [Airbnb Listings Analysis for Cleaning Services - Active Directory](https://github.com/Riley-livingston/AirBnb-Project)
