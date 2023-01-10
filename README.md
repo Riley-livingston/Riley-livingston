@@ -27,7 +27,7 @@
 [twitter]: https://twitter.com/RLivData
 <br /> 
 <h2>  ❤️ About Me</h2>
- - 🌱 I’m currently learning: ML, SQL, Python
+ - 🌱 I’m currently learning: ML Algorithms, SQL, Python
 <br />
  - 📫 How to reach me: rdlivin@bgsu.edu
 <br />
