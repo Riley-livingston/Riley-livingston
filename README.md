@@ -3,7 +3,7 @@
 <h2> ♠️ Data Projects:</h2>
 
 - <b> Python/TensorFlow:<b/>
-  - [Airbnb Price/Night Model for Listings in NYC | Linear Regression Using Neural Networks- Active Directory](https://github.com/Riley-livingston/Tensorflow-Airbnb-Project)
+  - [Airbnb Price/Night Model for Listings in NYC | Linear Regression Using Neural Networks - Active Directory](https://github.com/Riley-livingston/Tensorflow-Airbnb-Project)
 
 - <b> SQL and Python:<b/>
   - [Airbnb Listings Analysis for Cleaning Services | Multivariate Linear Regression - Active Directory](https://github.com/Riley-livingston/Airbnb-Listings-Analysis-for-Cleaning-Services-v2)
