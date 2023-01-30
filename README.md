@@ -36,4 +36,4 @@
 <br />
  - 😄 Pronouns: He/Him
 <br />
- - ⚡ Fun fact: Poker <3 Cooking <3 Football <3
+ - ⚡ Fun fact: Cooking <3 Football <3
