@@ -1,7 +1,7 @@
 <h1>Hi, I'm Riley Livingston! </h1>
 
 <h2> ♠️ Data Projects:</h2>
-* Projects are ordered from newest to oldest from the top*
+* Projects are ordered from newest to oldest from the top *
 
 - <b> Python/TensorFlow:<b/>
   - [Airbnb Price/night Model for Listings in NYC | Linear Regression Using Neural Networks - Active Directory](https://github.com/Riley-livingston/Tensorflow-Airbnb-Project)
