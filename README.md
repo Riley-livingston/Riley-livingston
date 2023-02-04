@@ -1,4 +1,4 @@
-<h1>Hi, I'm Riley! </h1>
+<h1>Hi, I'm Riley Livingston! </h1>
 
 <h2> ♠️ Data Projects:</h2>
 * Projects are ordered from newest to oldest from the top*
