@@ -26,7 +26,7 @@
 [<img align="left" alt="RileyLivingston | Kaggle" width="22px" src="https://simpleicons.org/icons/kaggle.svg" />][kaggle]
 
 [linkedin]: https://www.linkedin.com/in/rileylivingston/
-[twitter]: https://twitter.com/RLivData
+[twitter]: https://twitter.com/64Livingston
 [kaggle]: https://www.kaggle.com/rileylivingston
 <br /> 
 <h2>  ❤️ About Me</h2>
