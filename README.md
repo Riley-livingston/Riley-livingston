@@ -7,13 +7,13 @@
    - [A Highly Scientific Analysis of Chinese Restaurant Names in NYC](https://github.com/Riley-livingston/A-Highly-Scientific-Anlaysis-of-Chinese-Restaurant-Names-in-NYC)
 
 - <b> Python/TensorFlow:<b/>
-  - [Airbnb Price/night Model for Listings in NYC | Linear Regression Using Neural Networks - Active Directory](https://github.com/Riley-livingston/Tensorflow-Airbnb-Project)
+  - [Airbnb Price/night Model for Listings in NYC | Linear Regression Using Neural Networks](https://github.com/Riley-livingston/Tensorflow-Airbnb-Project)
 
 - <b> SQL / Python:<b/>
-  - [Airbnb Listings Analysis for Cleaning Services | Multivariate Linear Regression - Active Directory](https://github.com/Riley-livingston/Airbnb-Listings-Analysis-for-Cleaning-Services-v2)
+  - [Airbnb Listings Analysis for Cleaning Services | Multivariate Linear Regression](https://github.com/Riley-livingston/Airbnb-Listings-Analysis-for-Cleaning-Services-v2)
 
 - <b> SQL / Python / Tableau:</b>
-  - [Airbnb Listings Analysis for Cleaning Services - Active Directory](https://github.com/Riley-livingston/AirBnb-Project)
+  - [Airbnb Listings Analysis for Cleaning Services](https://github.com/Riley-livingston/AirBnb-Project)
 
 <h2> 📄 Certifications:</h2>
 
