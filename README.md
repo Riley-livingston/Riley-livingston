@@ -26,7 +26,6 @@
 
 [<img align="left" alt="RileyLivingston | LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="RileyLivingston | Twitter" width="22px" src="https://simpleicons.org/icons/twitter.svg" />][twitter]
-[<img align="left" alt="RileyLivingston | Kaggle" width="22px" src="https://simpleicons.org/icons/kaggle.svg" />][kaggle]
 
 [linkedin]: https://www.linkedin.com/in/rileylivingston/
 [twitter]: https://twitter.com/64Livingston
