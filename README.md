@@ -4,7 +4,7 @@
 * Projects are ordered from newest to oldest from the top *
 
  - <b> Python/Selenium: <b>
-   - [A Highly Scientific Analysis of Chinese Restaurant Names in NYC](https://github.com/Riley-livingston/A-Highly-Scientific-Analysis-of-NYC-Chinese-Restaurant-Names-/blob/main/README.md)
+   - [A Highly Scientific Analysis of Chinese Restaurant Names in NYC](https://github.com/Riley-livingston/A-Highly-Scientific-Anlaysis-of-Chinese-Restaurant-Names-in-NYC)
 
 - <b> Python/TensorFlow:<b/>
   - [Airbnb Price/night Model for Listings in NYC | Linear Regression Using Neural Networks - Active Directory](https://github.com/Riley-livingston/Tensorflow-Airbnb-Project)
