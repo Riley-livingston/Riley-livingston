@@ -28,7 +28,7 @@
 [<img align="left" alt="RileyLivingston | Twitter" width="22px" src="https://simpleicons.org/icons/twitter.svg" />][twitter]
 
 [linkedin]: https://www.linkedin.com/in/rileylivingston/
-[twitter]: https://twitter.com/64Living
+[twitter]: https://twitter.com/64Livingston
 <br /> 
 <h2>  ❤️ About Me</h2>
  - 🌱 I’m currently learning: ML Algorithms, SQL, Python, Selenium
