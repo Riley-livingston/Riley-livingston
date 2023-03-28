@@ -3,7 +3,7 @@
 <h2> ♠️ Data Projects:</h2>
 * Projects are ordered from newest to oldest from the top *
 
- - <b> Python/Selenium: <b>
+ - <b> Python/Web Scrapping with API: <b>
    - [A Highly Scientific Analysis of Chinese Restaurant Names in NYC](https://riley-livingston.github.io/A-Highly-Scientific-Anlaysis-of-Chinese-Restaurant-Names-in-NYC/)
 
 - <b> Python/TensorFlow:<b/>
