@@ -3,6 +3,9 @@
 <h2> ♠️ Data Projects:</h2>
 * Projects are ordered from newest to oldest from the top *
 
+ - <b> Python/TensorFLow/Tableau: <b>
+   - [Predicting Bankruptcy of Retail Apparel Companies](https://github.com/Riley-livingston/bankruptcy_risk_analysis_Retail_apparel_Industry)
+
  - <b> Python/Web Scrapping with API: <b>
    - [A Highly Scientific Analysis of Chinese Restaurant Names in NYC](https://riley-livingston.github.io/A-Highly-Scientific-Anlaysis-of-Chinese-Restaurant-Names-in-NYC/)
 
