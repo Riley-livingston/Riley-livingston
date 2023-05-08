@@ -3,8 +3,6 @@
 <h2> ♠️ Data Projects:</h2>
 * Projects are ordered from newest to oldest from the top *
 
- 
-   - [Predicting Bankruptcy of Retail Apparel Companies](https://github.com/Riley-livingston/bankruptcy_risk_analysis_Retail_apparel_Industry)
    
    - [Predictive Urban Growth Modeling for African Cities | OmdenaAI](https://riley-livingston-temporary-streamlit-1--omdena-homepage-ymlo55.streamlit.app/)
 
