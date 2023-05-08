@@ -3,19 +3,17 @@
 <h2> ♠️ Data Projects:</h2>
 * Projects are ordered from newest to oldest from the top *
 
- - <b> Python/TensorFLow/Tableau: <b>
+ 
    - [Predicting Bankruptcy of Retail Apparel Companies](https://github.com/Riley-livingston/bankruptcy_risk_analysis_Retail_apparel_Industry)
+   
+   - [Predictive Urban Growth Modeling for African Cities | OmdenaAI](https://riley-livingston-temporary-streamlit-1--omdena-homepage-ymlo55.streamlit.app/)
 
- - <b> Python/Web Scrapping with API: <b>
    - [A Highly Scientific Analysis of Chinese Restaurant Names in NYC](https://riley-livingston.github.io/A-Highly-Scientific-Anlaysis-of-Chinese-Restaurant-Names-in-NYC/)
 
-- <b> Python/TensorFlow:<b/>
   - [Airbnb Price/night Model for Listings in NYC | Linear Regression Using Neural Networks](https://github.com/Riley-livingston/Tensorflow-Airbnb-Project)
 
-- <b> SQL / Python:<b/>
   - [Airbnb Listings Analysis for Cleaning Services | Multivariate Linear Regression](https://github.com/Riley-livingston/Airbnb-Listings-Analysis-for-Cleaning-Services-v2)
 
-- <b> SQL / Python / Tableau:</b>
   - [Airbnb Listings Analysis for Cleaning Services](https://github.com/Riley-livingston/AirBnb-Project)
 
 <h2> 📄 Certifications:</h2>
