@@ -30,10 +30,8 @@
 [twitter]: https://twitter.com/64Livingston
 <br /> 
 <h2>  ❤️ About Me</h2>
- - 🌱 I’m currently learning: ML Algorithms, SQL, Python, Selenium
+ - 🌱 I’m currently Reading about: Computer Vision Algorithims, Startups, Building in Public, UX/UI Design
 <br />
  - 📫 How to reach me: rdlivin@bgsu.edu
-<br />
- - 😄 Pronouns: He/Him
 <br />
  - ⚡ Fun fact: Cooking <3 Football <3
