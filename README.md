@@ -30,7 +30,7 @@
 [twitter]: https://twitter.com/64Livingston
 <br /> 
 <h2>  ❤️ About Me</h2>
- - 🌱 I’m currently Reading about: Computer Vision Algorithims, Startups, Building in Public, UX/UI Design
+ - 🌱 I’m currently reading about: Computer Vision Algorithims, Startups, Building in Public, UX/UI Design
 <br />
  - 📫 How to reach me: rdlivin@bgsu.edu
 <br />
