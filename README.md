@@ -1,6 +1,6 @@
 <h1>Hi, I'm Riley Livingston! </h1>
 
-Founder @ [Artiflect.AI](https://artiflect.app/)
+Founder @ [Artiflect AI](https://artiflect.app/)
 
 <h2> ♠️ Data Projects:</h2>
 * Projects are ordered from newest to oldest from the top *
