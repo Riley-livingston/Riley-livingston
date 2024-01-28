@@ -32,7 +32,7 @@ Founder @ [Artiflect AI](https://artiflect.app/)
 [twitter]: https://twitter.com/64Livingston
 <br /> 
 <h2>  ❤️ About Me</h2>
- - 🌱 I’m currently reading about: Computer Vision Algorithims, Startups, Building in Public, UX/UI Design
+ - 🌱 I’m currently reading about: Computer Vision Algorithims, Startups, Building in Public
 <br />
  - 📫 How to reach me: rdlivin@bgsu.edu
 <br />
