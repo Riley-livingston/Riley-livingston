@@ -5,7 +5,9 @@ Founder @ [Artiflect AI](https://artiflect.app/)
 <h2> ♠️ Data Projects:</h2>
 * Projects are ordered from newest to oldest from the top *
 
-   - [Kubernetes Digital Aquarium](https://github.com/Riley-livingston/Kube-Aquarium/blob/main/README.md)
+   - [Open Source Real-time Earnings Call Transcriptor API](https://github.com/Riley-livingston/earnings-transcription-api)
+
+   - [ Open Source Kubernetes Digital Aquarium](https://github.com/Riley-livingston/Kube-Aquarium/blob/main/README.md)
 
    - [Predictive Urban Growth Modeling for African Cities | OmdenaAI](https://riley-livingston-temporary-streamlit-1--omdena-homepage-ymlo55.streamlit.app/)
 
