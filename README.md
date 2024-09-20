@@ -20,6 +20,7 @@ Founder @ [Artiflect AI](https://artiflect.app/)
 
 - [Google Data Analytics](https://coursera.org/share/1bc669ea0359a81e313d773a412d5bb6)
 - [Tableau Desktop Specialist](https://www.credly.com/badges/cd0f31cb-d769-4520-9b8d-a0dfabcaa071?source=linked_in_profile)
+- [AWS Cloud Practioner CLF-02](https://www.credly.com/badges/4154efab-e896-4614-8019-e5dd7210eebe)
 
 <h2> 🤳 Connect With Me:</h2>
 
