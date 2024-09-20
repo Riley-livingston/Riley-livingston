@@ -13,11 +13,8 @@ Founder @ [Artiflect AI](https://artiflect.app/)
 
    - [A Highly Scientific Analysis of Chinese Restaurant Names in NYC](https://riley-livingston.github.io/A-Highly-Scientific-Anlaysis-of-Chinese-Restaurant-Names-in-NYC/)
 
-  - [Airbnb Price/night Model for Listings in NYC | Linear Regression Using Neural Networks](https://github.com/Riley-livingston/Tensorflow-Airbnb-Project)
+   - [Airbnb Listings Analysis for Cleaning Services | Multivariate Linear Regression](https://github.com/Riley-livingston/Airbnb-Listings-Analysis-for-Cleaning-Services-v2)
 
-  - [Airbnb Listings Analysis for Cleaning Services | Multivariate Linear Regression](https://github.com/Riley-livingston/Airbnb-Listings-Analysis-for-Cleaning-Services-v2)
-
-  - [Airbnb Listings Analysis for Cleaning Services](https://github.com/Riley-livingston/AirBnb-Project)
 
 <h2> 📄 Certifications:</h2>
 
