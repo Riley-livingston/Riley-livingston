@@ -2,7 +2,7 @@
 
 Founder @ [Artiflect AI](https://artiflect.app/)
 
-<h2> ♠️ Data Projects:</h2>
+<h2> ♠️ Projects:</h2>
 * Projects are ordered from newest to oldest from the top *
 
    - [Open Source Real-time Earnings Call Transcriptor API](https://github.com/Riley-livingston/earnings-transcription-api)
