@@ -35,6 +35,6 @@ Founder @ [Artiflect AI](https://artiflect.app/)
 <h2>  ❤️ About Me</h2>
  - 🌱 I’m currently reading about: Computer Vision Algorithims, Startups, Building in Public
 <br />
- - 📫 How to reach me: rdlivin@bgsu.edu
+ - 📫 How to reach me: rdl8943@nyu.edu
 <br />
  - ⚡ Fun fact: Cooking <3 Football <3
