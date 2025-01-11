@@ -4,7 +4,8 @@ Founder @ [Artiflect AI](https://artiflect.app/)
 
 <h2> ♠️ Projects:</h2>
 * Projects are ordered from newest to oldest from the top *
-   - [Open-source Computer Vision Powered Robinhood-like Trading Card Portfolio Application](https://github.com/Riley-livingston/Mango)
+
+   - [Open-source Computer Vision Trading Card Portfolio Application](https://github.com/Riley-livingston/Mango)
 
    - [Real-time Earnings Call Transcriptor API](https://github.com/Riley-livingston/earnings-transcription-api)
 
