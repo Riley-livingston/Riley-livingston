@@ -4,17 +4,13 @@ Founder @ [Artiflect AI](https://artiflect.app/)
 
 <h2> ♠️ Projects:</h2>
 * Projects are ordered from newest to oldest from the top *
+   - [Open-source Computer Vision Powered Robinhood-like Trading Card Portfolio Application](https://github.com/Riley-livingston/Mango)
 
-   - [Open Source Real-time Earnings Call Transcriptor API](https://github.com/Riley-livingston/earnings-transcription-api)
+   - [Real-time Earnings Call Transcriptor API](https://github.com/Riley-livingston/earnings-transcription-api)
 
-   - [ Open Source Kubernetes Digital Aquarium](https://github.com/Riley-livingston/Kube-Aquarium/blob/main/README.md)
+   - [Kubernetes Digital Aquarium](https://github.com/Riley-livingston/Kube-Aquarium/blob/main/README.md)
 
    - [Predictive Urban Growth Modeling for African Cities | OmdenaAI](https://riley-livingston-temporary-streamlit-1--omdena-homepage-ymlo55.streamlit.app/)
-
-   - [A Highly Scientific Analysis of Chinese Restaurant Names in NYC](https://riley-livingston.github.io/A-Highly-Scientific-Anlaysis-of-Chinese-Restaurant-Names-in-NYC/)
-
-   - [Airbnb Listings Analysis for Cleaning Services | Multivariate Linear Regression](https://github.com/Riley-livingston/Airbnb-Listings-Analysis-for-Cleaning-Services-v2)
-
 
 <h2> 📄 Certifications:</h2>
 
