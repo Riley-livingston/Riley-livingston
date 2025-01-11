@@ -7,11 +7,11 @@ Founder @ [Artiflect AI](https://artiflect.app/)
 
    - [Open-source Computer Vision Trading Card Portfolio Application](https://github.com/Riley-livingston/Mango)
 
+   - [Predictive Urban Growth Modeling for African Cities | OmdenaAI](https://riley-livingston-temporary-streamlit-1--omdena-homepage-ymlo55.streamlit.app/)
+
    - [Real-time Earnings Call Transcriptor API](https://github.com/Riley-livingston/earnings-transcription-api)
 
    - [Kubernetes Digital Aquarium](https://github.com/Riley-livingston/Kube-Aquarium/blob/main/README.md)
-
-   - [Predictive Urban Growth Modeling for African Cities | OmdenaAI](https://riley-livingston-temporary-streamlit-1--omdena-homepage-ymlo55.streamlit.app/)
 
 <h2> 📄 Certifications:</h2>
 
