@@ -5,9 +5,9 @@ Founder @ [Artiflect AI](https://artiflect.app/) and Grad Student at NYU
 <h2> ♠️ Projects:</h2>
 * Projects are ordered from newest to oldest from the top *
 
-   - [DutyFlow | Automating Import-Export Customs Duty Drawbacks 🚢](https://github.com/Riley-livingston/duty-flow)
+   - [DutyFlow 🚢 | Automating Import-Export Customs Duty Drawbacks](https://github.com/Riley-livingston/duty-flow)
 
-   - [ArtiflctAI | Computer Vision Powered Trading Card Portfolio Application 🥭](https://github.com/Riley-livingston/Mango)
+   - [ArtiflectAI 🥭 | Computer Vision Powered Trading Card Portfolio Application](https://github.com/Riley-livingston/Mango)
 
    - [Predictive Urban Growth Modeling for African Cities | OmdenaAI](https://riley-livingston-temporary-streamlit-1--omdena-homepage-ymlo55.streamlit.app/)
 
