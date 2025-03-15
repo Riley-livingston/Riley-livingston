@@ -12,12 +12,11 @@ Founder @ [Artiflect AI](https://artiflect.app/) and Grad Student at NYU
 
 <div align="center">
   <a href="https://github.com/Riley-livingston">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Riley-livingston&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riley-livingston&layout=compact&theme=tokyonight&hide=html,css" />
+    <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Riley-livingston&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&border_radius=10" />
+    <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Riley-livingston&layout=compact&theme=tokyonight&hide=html,css&border_radius=10" />
   </a>
-  
-    
-</div>
+
+  </div>
 
 ## 📄 Certifications:
 - [AWS Cloud Practitioner CLF-02](https://www.credly.com/badges/4154efab-e896-4614-8019-e5dd7210eebe)
