@@ -1,25 +1,34 @@
-<h1>Hi, I'm Riley Livingston! </h1>
+# Hi, I'm Riley Livingston! 
 
 Founder @ [Artiflect AI](https://artiflect.app/) and Grad Student at NYU
 
-<h2> ♠️ Projects:</h2>
-* Projects are ordered from newest to oldest from the top *
+## ♠️ Projects:
+*Projects are ordered from newest to oldest from the top*
+- [DutyFlow 🚢 | Automating Import-Export Customs Duty Drawbacks](https://github.com/Riley-livingston/duty-flow)
+- [ArtiflectAI 🥭 | Computer Vision Powered Trading Card Portfolio](https://github.com/Riley-livingston/Mango)
+- [Predictive Urban Growth Modeling for African Cities | OmdenaAI](https://riley-livingston-temporary-streamlit-1--omdena-homepage-ymlo55.streamlit.app/)
 
-   - [DutyFlow 🚢 | Automating Import-Export Customs Duty Drawbacks](https://github.com/Riley-livingston/duty-flow)
+## 📊 GitHub Stats
 
-   - [ArtiflectAI 🥭 | Computer Vision Powered Trading Card Portfolio](https://github.com/Riley-livingston/Mango)
+<div align="center">
+  <a href="https://github.com/Riley-livingston">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Riley-livingston&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riley-livingston&layout=compact&theme=tokyonight&hide=html,css" />
+  </a>
+  
+    
+</div>
 
-   - [Predictive Urban Growth Modeling for African Cities | OmdenaAI](https://riley-livingston-temporary-streamlit-1--omdena-homepage-ymlo55.streamlit.app/)
-
-
-<h2> 📄 Certifications:</h2>
-
-- [AWS Cloud Practioner CLF-02](https://www.credly.com/badges/4154efab-e896-4614-8019-e5dd7210eebe)
+## 📄 Certifications:
+- [AWS Cloud Practitioner CLF-02](https://www.credly.com/badges/4154efab-e896-4614-8019-e5dd7210eebe)
 - [Google Data Analytics](https://coursera.org/share/1bc669ea0359a81e313d773a412d5bb6)
 - [Tableau Desktop Specialist](https://www.credly.com/badges/cd0f31cb-d769-4520-9b8d-a0dfabcaa071?source=linked_in_profile)
-<h2>  ❤️ About Me</h2>
- - 🌱 I’m currently reading about: CUDA, Startups, Building in Public
-<br />
- - 📫 How to reach me: rdl8943@nyu.edu
-<br />
- - ⚡ Fun fact: baking <3 Football <3
+
+## ❤️ About Me
+- 🌱 I'm currently reading about: CUDA, Startups, Building in Public
+- 📫 How to reach me: rdl8943@nyu.edu
+- ⚡ Fun fact: baking <3 Football <3
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Riley-livingston&color=brightgreen)
