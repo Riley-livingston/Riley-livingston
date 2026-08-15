@@ -5,7 +5,7 @@ Founder @ [Artiflect AI](https://artiflect.app/) and Grad Student at NYU
 ## ♠️ Projects:
 *Projects are ordered from newest to oldest from the top*
 
-- [Disney | Library & the Lights](https://riley-livingston.github.io/library-and-the-lights/)
+- [Disney+ | Library and the Lights](https://riley-livingston.github.io/library-and-the-lights/)
 - [ArtiflectAI 🥭 | Computer Vision Powered Trading Card Portfolio](https://github.com/Riley-livingston/Mango)
 - [Predictive Urban Growth Modeling for African Cities | OmdenaAI](https://riley-livingston-temporary-streamlit-1--omdena-homepage-ymlo55.streamlit.app/)
 
