@@ -1,7 +1,5 @@
 # Hi, I'm Riley Livingston! 
 
-Founder @ [Artiflect AI](https://artiflect.app/) and Grad Student at NYU
-
 ## ♠️ Projects:
 *Projects are ordered from newest to oldest from the top*
 
