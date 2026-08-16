@@ -3,7 +3,7 @@
 ## ♠️ Projects:
 *Projects are ordered from newest to oldest from the top*
 
-- [Disney World Ops ✨| Attraction Queue Intelligence](https://disney-world-queue.streamlit.app)
+- [Disney World ✨| Attraction Queue Intelligence](https://disney-world-queue.streamlit.app)
 - [Disney+ ✨| Library and the Lights](https://riley-livingston.github.io/library-and-the-lights/)
 - [ArtiflectAI 🥭 | Computer Vision Powered Trading Card Portfolio](https://github.com/Riley-livingston/Mango)
 - [Predictive Urban Growth Modeling for African Cities | OmdenaAI](https://riley-livingston-temporary-streamlit-1--omdena-homepage-ymlo55.streamlit.app/)
