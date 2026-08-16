@@ -13,11 +13,6 @@
 - [Google Data Analytics](https://coursera.org/share/1bc669ea0359a81e313d773a412d5bb6)
 - [Tableau Desktop Specialist](https://www.credly.com/badges/cd0f31cb-d769-4520-9b8d-a0dfabcaa071?source=linked_in_profile)
 
-## ❤️ About Me
-- 🌱 I'm currently reading about: CUDA, Startups, Building in Public
-- 📫 How to reach me: rdl8943@nyu.edu
-- ⚡ Fun fact: baking <3 Football <3
-
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Riley-livingston&color=brightgreen)
